@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-03T06:31:23.119Z</updated>
+  <updated>2018-11-01T15:09:50.032Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,41 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>111</title>
-    <link href="http://yoursite.com/2018/11/03/111-1/"/>
-    <id>http://yoursite.com/2018/11/03/111-1/</id>
-    <published>2018-11-03T06:28:40.000Z</published>
-    <updated>2018-11-03T06:31:23.119Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2018/11/03/111/"/>
-    <id>http://yoursite.com/2018/11/03/111/</id>
-    <published>2018-11-03T06:26:48.802Z</published>
-    <updated>2018-11-01T12:34:18.920Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="How-to-Think-Like-a-Computer-Scientist"><a href="#How-to-Think-Like-a-Computer-Scientist" class="headerlink" title="How to Think Like a Computer Scientist"></a>How to Think Like a Computer Scientist</h1><p><img src="https://s1.ax1x.com/2018/09/16/iVToWj.png" alt="iVToWj.png"></p><h2 id="你是大傻逼"><a href="#你是大傻逼" class="headerlink" title="你是大傻逼"></a>你是大傻逼</h2><h3 id="Learning-with-Python-3-RLE"><a href="#Learning-with-Python-3-RLE" class="headerlink" title="Learning with Python 3 (RLE)"></a>Learning with Python 3 (RLE)</h3><p>Version date: October 2012</p><p>by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers</p><pre><code>(based on 2nd edition by Jeffrey Elkner, Allen B. Downey, and Chris Meyers)</code></pre><p>Corresponding author: <a href="mailto:p.wentworth@ru.ac.za" target="_blank" rel="noopener">p.wentworth@ru.ac.za</a></p><p>Source repository is at <a href="https://code.launchpad.net/~thinkcspy-rle-team/thinkcspy/thinkcspy3-rle" target="_blank" rel="noopener">https://code.launchpad.net/~thinkcspy-rle-team/thinkcspy/thinkcspy3-rle</a></p><p>For offline use, download a zip file of the html or a pdf version (the pdf is updated less often) from <a href="http://www.ict.ru.ac.za/Resources/cspw/thinkcspy3/" target="_blank" rel="noopener">http://www.ict.ru.ac.za/Resources/cspw/thinkcspy3/</a></p><ul><li><a href="http://openbookproject.net/thinkcs/python/english3e/search.html" target="_blank" rel="noopener">Search Page</a></li><li><a href="http://openbookproject.net/thinkcs/python/english3e/copyright.html" target="_blank" rel="noopener">Copyright Notic</a></li><li><a href="http://openbookproject.net/thinkcs/python/english3e/foreword.html" target="_blank" rel="noopener">Foreword</a></li><li><a href="http://openbookproject.net/thinkcs/python/english3e/preface.html" target="_blank" rel="noopener">Preface</a></li><li><a href="http://openbookproject.net/thinkcs/python/english3e/preface3-rle.html" target="_blank" rel="noopener">Preface-3</a> This Rhodes Local Edition (RLE) of the book</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/contrib.html" target="_blank" rel="noopener">Contributor List</a></li><li><a href="http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html" target="_blank" rel="noopener">Chapter 1</a> The way of the program</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/variables_expressions_statements.html" target="_blank" rel="noopener">Chapter 2</a> Variables, expressions, and statements</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html" target="_blank" rel="noopener">Chapter 3</a> Hello, little turtles!</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/functions.html" target="_blank" rel="noopener">Chapter 4</a> Functions</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/conditionals.html" target="_blank" rel="noopener">Chapter 5</a> Conditionals</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/fruitful_functions.html" target="_blank" rel="noopener">Chapter 6</a>Fruitful functions</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/iteration.html" target="_blank" rel="noopener">Chapter 7</a> Iteration</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/strings.html" target="_blank" rel="noopener">Chapter 8</a> Strings</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/tuples.html" target="_blank" rel="noopener">Chapter 9</a> Tuples</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/events.html" target="_blank" rel="noopener">Chapter 10</a> Event handling</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/lists.html" target="_blank" rel="noopener">Chapter 11</a> Lists</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/modules.html" target="_blank" rel="noopener">Chapter 12</a> Modules</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/files.html" target="_blank" rel="noopener">Chapter 13</a> Files</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html" target="_blank" rel="noopener">Chapter 14</a> List Algorithms</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html" target="_blank" rel="noopener">Chapter 15</a> Classes and Objects - the Basics</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/classes_and_objects_II.html" target="_blank" rel="noopener">Chapter 16</a> Classes and Objects - Digging a little deeper</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/pygame.html" target="_blank" rel="noopener">Chapter 17</a> PyGame</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/recursion.html" target="_blank" rel="noopener">Chapter 18</a> Recursion</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/exceptions.html" target="_blank" rel="noopener">Chapter 19</a> Exceptions</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/dictionaries.html" target="_blank" rel="noopener">Chapter 20</a> Dictionaries</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/even_more_oop.html" target="_blank" rel="noopener">Chapter 21</a> Even more OOP</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/collections.html" target="_blank" rel="noopener">Chapter 22</a> Collections of Objects</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/inheritance.html" target="_blank" rel="noopener">Chapter 23</a> Inheritance</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/linked_lists.html" target="_blank" rel="noopener">Chapter 24</a> Linked Lists</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/stacks.html" target="_blank" rel="noopener">Chapter 25</a> Stacks</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/queues.html" target="_blank" rel="noopener">Chapter 26</a> Queues</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/trees.html" target="_blank" rel="noopener">Chapter 27</a> Trees</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/app_a.html" target="_blank" rel="noopener">Appendix A</a> Debugging</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/app_b.html" target="_blank" rel="noopener">Appendix B</a> An odds-and-ends Workbook</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/app_c.html" target="_blank" rel="noopener">Appendix C</a> Configuring Ubuntu for Python Development</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/app_d.html" target="_blank" rel="noopener">Appendix D</a> Customizing and Contributing to the Book</li><li><a href="http://openbookproject.net/thinkcs/python/english3e/app_e.html" target="_blank" rel="noopener">Appendix E</a> Some Tips, Tricks, and Common Errors</li><li><p><a href="http://openbookproject.net/thinkcs/python/english3e/fdl-1.3.html" target="_blank" rel="noopener">GNU Free Document License</a></p></li><li><p><a href="http://openbookproject.net/thinkcs/python/english3e/search.html" target="_blank" rel="noopener">Search Page</a></p></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;How-to-Think-Like-a-Computer-Scientist&quot;&gt;&lt;a href=&quot;#How-to-Think-Like-a-Computer-Scientist&quot; class=&quot;headerlink&quot; title=&quot;How to Think Lik
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
